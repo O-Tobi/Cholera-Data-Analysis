@@ -2,7 +2,7 @@
 This is a personal project meant to showcase my data analysis and visualization skills. The dataset was gotten from <a href= "https://www.kaggle.com/datasets/imdevskp/cholera-dataset">Kaggle</a> and it contains data of over 150 countries across all WHO regions from 1949 - 2016.
 
 ## INTRODUCTION 
-Cholera is a severe diarrheal illness caused by a /Vibrio cholerae/ bacterial infection of the intestine. People can become ill if they consume cholera-contaminated food or water. The infection is often minor or without symptoms, although it can sometimes be severe and life-threatening.
+Cholera is a severe diarrheal illness caused by a <i>Vibrio cholerae</i> bacterial infection of the intestine. People can become ill if they consume cholera-contaminated food or water. The infection is often minor or without symptoms, although it can sometimes be severe and life-threatening.
 Since its discovery in Italy in 1854, cholera has been a global menace. Despite the discovery of a vaccine, it's regrettable that cholera continues to ravage some countries. As a result, the impetus for this brief analysis.
 The dataset contains 2,469 rows and 6 columns which will be explored for this project.
 
